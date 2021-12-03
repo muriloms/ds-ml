@@ -5,7 +5,7 @@ Repository for organizing projects related to Data Science and Artificial Intell
 https://github.com/muriloms/data-vis-python
 
 # Machine learning
-
+https://github.com/muriloms/ds-ai-repository/tree/main/ML
 
 # Deep learning
 
