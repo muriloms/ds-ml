@@ -8,6 +8,7 @@ https://github.com/muriloms/data-vis-python
 https://github.com/muriloms/ds-ai-repository/tree/main/ML
 
 # Deep learning
-
+https://github.com/muriloms/ds-ai-repository/tree/main/DL
 
 # Reinforcement learning
+https://github.com/muriloms/ds-ai-repository/tree/main/RL
