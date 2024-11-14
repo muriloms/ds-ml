@@ -22,7 +22,7 @@ Welcome to the **Data Science and Machine Learning** repository! This repository
 
 ## 📄 About This Repository
 
-This repository is intended to serve as a comprehensive collection for projects in **Data Science** and **AI**. Whether you're new to these fields or advancing your skills, you'll find resources and projects for various levels of expertise.
+This repository is intended to serve as a comprehensive collection for projects in **Data Science** and **ML**. Whether you're new to these fields or advancing your skills, you'll find resources and projects for various levels of expertise.
 
 To explore more projects, please visit my [GitHub profile](https://github.com/muriloms).
 
